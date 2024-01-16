@@ -1,2 +1,2 @@
-# melleonard.
+# MyAcademicPortfolio.
 Mel Leonard's Academic Portfolio
